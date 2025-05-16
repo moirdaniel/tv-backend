@@ -11,15 +11,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Code
+    - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Deploy over SSH
+    - name: Deploy over SSH using Cloudflare Access
       uses: appleboy/ssh-action@v1.0.0
       with:
         host: ${{ secrets.TV_BACKEND_HOST }}
         username: ${{ secrets.TV_BACKEND_USER }}
         key: ${{ secrets.TV_BACKEND_SSH_KEY }}
+        proxy_host: ${{ secrets.TV_BACKEND_HOST }}
+        proxy_port: 443
+        proxy_username: ${{ secrets.CF_ACCESS_CLIENT_ID }}
+        proxy_password: ${{ secrets.CF_ACCESS_CLIENT_SECRET }}
+        use_insecure_cipher: true
         script: |
           cd /docker-apps/tv-backend
           git pull origin main
