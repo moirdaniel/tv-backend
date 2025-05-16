@@ -19,5 +19,5 @@ jobs:
     - name: Levantar contenedores con Docker Compose
       run: |
         cd /tmp/tv-backend
-        docker compose pull
-        docker compose up -d --remove-orphans
+        docker-compose pull
+        docker-compose up -d --remove-orphans
