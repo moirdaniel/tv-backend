@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    name: Despliegue usando dmoir
+    name: Despliegue directo con Dockerfile
     runs-on: self-hosted
 
     steps:
@@ -16,13 +16,20 @@ jobs:
         echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S rm -rf /tmp/tv-backend
         git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/moirdaniel/tv-backend.git /tmp/tv-backend
 
-    - name: Copiar archivos al directorio de despliegue
+    - name: Detener contenedor anterior si existe
       run: |
-        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S rm -rf /docker-apps/tv-backend/*
-        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S cp -r /tmp/tv-backend/* /docker-apps/tv-backend/
+        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker stop tv-backend || true
+        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker rm tv-backend || true
 
-    - name: Ejecutar Docker Compose como dmoir
+    - name: Construir imagen desde Dockerfile
       run: |
-        cd /docker-apps/tv-backend
-        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker-compose pull
-        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker-compose up -d --remove-orphans
+        cd /tmp/tv-backend
+        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker build -t tv-backend:latest .
+
+    - name: Iniciar contenedor
+      run: |
+        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker run -d \
+          --name tv-backend \
+          -p 3000:3000 \
+          -v /tmp/tv-backend:/app \
+          tv-backend:latest
