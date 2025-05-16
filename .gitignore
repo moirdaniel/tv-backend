@@ -10,3 +10,4 @@ obj/
 Dockerfile.*
 docker-compose.override.yml
 EOF
+node_modules/
