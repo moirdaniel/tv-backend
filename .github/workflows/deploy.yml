@@ -18,25 +18,25 @@ jobs:
 
     - name: Liberar completamente el puerto 3000
       run: |
+        PASS="${{ secrets.DMOIR_SUDO_PASSWORD }}"
         echo "📦 Contenedores en puerto 3000:"
-        sudo docker ps --filter "publish=3000"
+        echo "$PASS" | sudo -S docker ps --filter "publish=3000"
         
         echo "🔍 Procesos usando puerto 3000:"
-        sudo lsof -i :3000 || true
+        echo "$PASS" | sudo -S lsof -i :3000 || true
 
         echo "🧨 Forzando eliminación de contenedor con puerto 3000 (si existe)..."
-        ID=$(sudo docker ps -q --filter publish=3000)
-
+        ID=$(echo "$PASS" | sudo -S docker ps -q --filter publish=3000)
         if [ -n "$ID" ]; then
-          echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker kill $ID
-          echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker rm $ID
+          echo "$PASS" | sudo -S docker kill $ID
+          echo "$PASS" | sudo -S docker rm $ID
         fi
 
         echo "🧨 Matando procesos externos en puerto 3000..."
-        PORT_PID=$(sudo lsof -ti:3000 || true)
-        if [ -n "$PORT_PID" ]; then
+        PORT_PID=$(echo "$PASS" | sudo -S lsof -ti:3000 || true)
+         if [ -n "$PORT_PID" ]; then
           echo "⚠️ Matando proceso externo (PID $PORT_PID)..."
-          echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S kill -9 $PORT_PID
+          echo "$PASS" | sudo -S kill -9 $PORT_PID
           sleep 2
         fi  
 
