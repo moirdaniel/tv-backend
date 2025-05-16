@@ -1,0 +1,12 @@
+cat <<EOF > .gitignore
+bin/
+obj/
+.env
+*.log
+*.db
+*.sqlite
+.vscode/
+.idea/
+Dockerfile.*
+docker-compose.override.yml
+EOF

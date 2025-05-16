@@ -1,0 +1,2655 @@
+[
+  {
+    "id": 1,
+    "name": "+ Listas en M3U.CL ✪ | CL",
+    "url": "https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/156___Listas_en_M3U_CL.png",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "name": "Retro Plus TV ✪ | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 3,
+    "name": "Retro Plus TV Señal 2 ✪ | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png",
+    "enabled": true
+  },
+  {
+    "id": 4,
+    "name": "Retro Plus TV Señal 3 ✪ | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",
+    "enabled": true
+  },
+  {
+    "id": 5,
+    "name": "VClassicTV ✪ | CL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1160_VClassicTV.png",
+    "enabled": true
+  },
+  {
+    "id": 6,
+    "name": "VClassicTV Tropical ✪ | CL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png",
+    "enabled": true
+  },
+  {
+    "id": 7,
+    "name": "Recuerdos Retro Radio TV ✪ | CL",
+    "url": "https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 8,
+    "name": "Radio Fin Del Mundo TV ✪ | CL",
+    "url": "https://5790d294af2dc.streamlock.net:443/RFDMTV/RFDMTV/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1605_Radio_Fin_Del_Mundo_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 9,
+    "name": "Radio Puangue Curacavi ✪ | CL",
+    "url": "https://5790d294af2dc.streamlock.net/puangueradio/puangueradio/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1654_Radio_Puangue_Curacavi.png",
+    "enabled": true
+  },
+  {
+    "id": 10,
+    "name": "Opinionsur Cine ✪ | CL",
+    "url": "https://glb.bozztv.com/glb/ssh101/opinionsur/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1087_Opinionsur_Cine.png",
+    "enabled": true
+  },
+  {
+    "id": 11,
+    "name": "+Cine ✪ | CL",
+    "url": "https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1435__Cine.png",
+    "enabled": true
+  },
+  {
+    "id": 12,
+    "name": "PRIDEtv Latam ✪ | CL",
+    "url": "https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png",
+    "enabled": true
+  },
+  {
+    "id": 13,
+    "name": "Cachipum TV ✪ | CL",
+    "url": "https://scl.edge.grupoz.cl/streamcachi/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1689_Cachipum_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 14,
+    "name": "Moni TV ✪ | CL",
+    "url": "https://tv.arkeo.cl:19360/8134/8134.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1300_Moni_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 15,
+    "name": "Kanade TV ✪ | CL",
+    "url": "https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1466_Kanade_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 16,
+    "name": "EnerGeek FAN ✪ | CL",
+    "url": "https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png",
+    "enabled": true
+  },
+  {
+    "id": 17,
+    "name": "EnerGeek Retro ✪ | CL",
+    "url": "https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png",
+    "enabled": true
+  },
+  {
+    "id": 18,
+    "name": "EnerGeek Radio ✪ | CL",
+    "url": "https://xui-backend.energeek.cl/live/11/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 19,
+    "name": "AniRetro ✪ | CL",
+    "url": "https://tv.arkeo.cl:19360/8000/8000.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
+    "enabled": true
+  },
+  {
+    "id": 20,
+    "name": "ZTV Anime ✪ | CL",
+    "url": "https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1604_ZTV_Anime.png",
+    "enabled": true
+  },
+  {
+    "id": 21,
+    "name": "Eva Retro ✪ | CL",
+    "url": "https://premium.tvcontrolcp.com:19360/evaretro/evaretro.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1074_Eva_Retro.png",
+    "enabled": true
+  },
+  {
+    "id": 22,
+    "name": "Opinionsur Niños ✪ | CL",
+    "url": "https://glb.bozztv.com/glb/ssh101/opinionsurn/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1619_Opinionsur_Ninos.png",
+    "enabled": true
+  },
+  {
+    "id": 23,
+    "name": "Portal FoxMix ✪ | CL",
+    "url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/31_Portal_FoxMix.png",
+    "enabled": true
+  },
+  {
+    "id": 24,
+    "name": "Ruidos TV ✪ | CL",
+    "url": "https://stream.skarnetchile.com:19360/ruidostv/ruidostv.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/13_Ruidos_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 25,
+    "name": "Eternal Metal ✪ | CL",
+    "url": "https://vdo1.panelstreaming.live:3350/hybrid/play.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1312_Eternal_Metal.png",
+    "enabled": true
+  },
+  {
+    "id": 26,
+    "name": "Rock City ✪ | CL",
+    "url": "https://ssh101-fl.bozztv.com/ssh101/rockcitytv24/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1574_Rock_City.png",
+    "enabled": true
+  },
+  {
+    "id": 27,
+    "name": "Latinos Radio ✪ | CL",
+    "url": "https://cloudpro.servidoresdestream.com:8081/8012/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/996_Latinos_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 28,
+    "name": "PlanetaTV ✪ | CL",
+    "url": "https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1014_PlanetaTV.png",
+    "enabled": true
+  },
+  {
+    "id": 29,
+    "name": "Parentesis TV ✪ | CL",
+    "url": "https://freya.mivideo.pro/parentesistv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1424_Parentesis_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 30,
+    "name": "Mundo de la Musica TV ✪ | CL",
+    "url": "https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 31,
+    "name": "Suyai TV ✪ | CL",
+    "url": "https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoM3uCL&password=JpunQr45z7&PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1288_Suyai_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 32,
+    "name": "Suyai Radio ✪ | CL",
+    "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoM3uCL&password=JpunQr45z7&PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1611_Suyai_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 33,
+    "name": "CRTV ✪ | CL",
+    "url": "https://videolatam.com:3558/hybrid/play.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1098_CRTV.png",
+    "enabled": true
+  },
+  {
+    "id": 34,
+    "name": "CDR ✪ | CL",
+    "url": "https://mediacp.nnw.cl:19360/cdr/cdr.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1287_CDR.png",
+    "enabled": true
+  },
+  {
+    "id": 35,
+    "name": "EstacionRadiotv ✪ | CL",
+    "url": "https://paneltv.online:1936/udgzsnbuxn/udgzsnbuxn/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1693_EstacionRadiotv.png",
+    "enabled": true
+  },
+  {
+    "id": 36,
+    "name": "Abajo e la linea TV ✪ | CL",
+    "url": "https://5ff3d9babae13.streamlock.net/ynfpncxxjg/ynfpncxxjg/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1690_Abajo_e_la_linea_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 37,
+    "name": "El Canal Feliz ✪ | CL",
+    "url": "http://streaming.multicontenidos.cl:8081/live/canalfeliz/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1687_El_Canal_Feliz.png",
+    "enabled": true
+  },
+  {
+    "id": 38,
+    "name": "Frecuencia Cultural ✪ | CL",
+    "url": "https://v2.tustreaming.cl/frecuenciacultural/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1682_Frecuencia_Cultural.png",
+    "enabled": true
+  },
+  {
+    "id": 39,
+    "name": "Concert Freaks ✪ | CL",
+    "url": "https://srv5.zcast.com.br/alonso9520/alonso9520/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1680_Concert_Freaks.png",
+    "enabled": true
+  },
+  {
+    "id": 40,
+    "name": "VHS ✪ | CL",
+    "url": "https://tv.arkeo.cl:19360/8138/8138.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1679_VHS.png",
+    "enabled": true
+  },
+  {
+    "id": 41,
+    "name": "RitoqueFM TV ✪ | CL",
+    "url": "https://v2.tustreaming.cl/unetev/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1678_RitoqueFM_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 42,
+    "name": "HD Radio ✪ | CL",
+    "url": "https://vdo.bitsur.cl:3029/live/hdradiolive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1677_HD_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 43,
+    "name": "TV Bajo Cero ✪ | CL",
+    "url": "https://tv.arkeo.cl:1936/tvbajocero/tvbajocero/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1676_TV_Bajo_Cero.png",
+    "enabled": true
+  },
+  {
+    "id": 44,
+    "name": "Radio Amiga Vallenar ✪ | CL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8176/8176/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1675_Radio_Amiga_Vallenar.png",
+    "enabled": true
+  },
+  {
+    "id": 45,
+    "name": "Chile Informa ✪ | CL",
+    "url": "http://45.225.95.154:8081/mcg/chileinforma/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1674_Chile_Informa.png",
+    "enabled": true
+  },
+  {
+    "id": 46,
+    "name": "Preludio TV Señal 2 ✪ | CL",
+    "url": "https://tv.arkeo.cl:1936/preludio2/preludio2/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1672_Preludio_TV_Senal_2.png",
+    "enabled": true
+  },
+  {
+    "id": 47,
+    "name": "Omega Radio ✪ | CL",
+    "url": "https://v2.tustreaming.cl:443/broadcastingtx/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1671_Omega_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 48,
+    "name": "Interactiva TV ✪ | CL",
+    "url": "https://unlimited2-cl-isp.dps.live/interactivatv/interactivatv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1670_Interactiva_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 49,
+    "name": "Interactiva FM ✪ | CL",
+    "url": "https://unlimited2-cl-isp.dps.live/radiointeractiva/radiointeractiva.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/388_Interactiva_FM.png",
+    "enabled": true
+  },
+  {
+    "id": 50,
+    "name": "Radio Zona ✪ | CL",
+    "url": "https://stream.gia.tv/giatv/giatv-venegas199220/venegas199220/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1669_Radio_Zona.png",
+    "enabled": true
+  },
+  {
+    "id": 51,
+    "name": "Verso TV ✪ | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/verso/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1668_Verso_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 52,
+    "name": "La Chilena TV ✪ | CL",
+    "url": "https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 53,
+    "name": "Zona Sur TV ✪ | CL",
+    "url": "https://paneltv.online:1936/ewhyzzdphg/ewhyzzdphg/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1664_Zona_Sur_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 54,
+    "name": "El Hashtag TV ✪ | CL",
+    "url": "https://5a1178b42cc03.streamlock.net:443/HASHTAG/HASHTAG/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1661_El_Hashtag_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 55,
+    "name": "Tropical Ranchero ✪ | CL",
+    "url": "https://radioxxx.ddns.net/hls/stream.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1660_Tropical_Ranchero.png",
+    "enabled": true
+  },
+  {
+    "id": 56,
+    "name": "TeleZeta Tropical ✪ | CL",
+    "url": "https://stream.telezeta.cl/live/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1651_TeleZeta_Tropical.png",
+    "enabled": true
+  },
+  {
+    "id": 57,
+    "name": "Alfa TV ✪ | CL",
+    "url": "https://v2.tustreaming.cl/alfatv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1650_Alfa_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 58,
+    "name": "EPA! TV ✪ | CL",
+    "url": "https://v4.tustreaming.cl/edusauriotv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1649_EPA__TV.png",
+    "enabled": true
+  },
+  {
+    "id": 59,
+    "name": "Poesia TV ✪ | CL",
+    "url": "https://stmv5.voxtvhd.com.br/radiopoesia/radiopoesia/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1630_Poesia_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 60,
+    "name": "Radio Vibra ✪ | CL",
+    "url": "https://stream.gia.tv/giatv/giatv-vibra/vibra/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1628_Radio_Vibra.png",
+    "enabled": true
+  },
+  {
+    "id": 61,
+    "name": "Opinionsur Series ✪ | CL",
+    "url": "https://glb.bozztv.com/glb/ssh101/opinionsurs/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1618_Opinionsur_Series.png",
+    "enabled": true
+  },
+  {
+    "id": 62,
+    "name": "Zoom Tecnologico Plus ✪ | CL",
+    "url": "https://5f700d5b2c46f.streamlock.net:443/zoomtec/zoomtec/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1617_Zoom_Tecnologico_Plus.png",
+    "enabled": true
+  },
+  {
+    "id": 63,
+    "name": "Chilevisual Classic ✪ | CL",
+    "url": "https://stmv5.voxtvhd.com.br/chilevisual/chilevisual/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1418_Chilevisual_Classic.png",
+    "enabled": true
+  },
+  {
+    "id": 64,
+    "name": "Radio Labrar TV ✪ | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/radiolabrartv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1487_Radio_Labrar_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 65,
+    "name": "Music PUQ ✪ | CL",
+    "url": "https://vdochile.com:3131/live/redupxprlive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1473_Music_PUQ.png",
+    "enabled": true
+  },
+  {
+    "id": 66,
+    "name": "Galactika Media ✪ | CL",
+    "url": "https://oracle.streaminghd.cl/galactika-1/galactika-1/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1282_Galactika_Media.png",
+    "enabled": true
+  },
+  {
+    "id": 67,
+    "name": "HiperTV ✪ | CL",
+    "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/432_HiperTV.png",
+    "enabled": true
+  },
+  {
+    "id": 68,
+    "name": "Onda Radio TV ✪ | CL",
+    "url": "https://tv.arkeo.cl:1936/ondaradiotv/ondaradiotv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1005_Onda_Radio_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 69,
+    "name": "Energia TV ✪ | CL",
+    "url": "https://andromeda2.trapemn.tv:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/386_Energia_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 70,
+    "name": "Bio Bio TV ✪ | CL",
+    "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/421_Bio_Bio_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 71,
+    "name": "La Red ✪ | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/790_La_Red.png",
+    "enabled": true
+  },
+  {
+    "id": 72,
+    "name": "TV+ ✪ | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/458_TV_.png",
+    "enabled": true
+  },
+  {
+    "id": 73,
+    "name": "TVN - Reuters ✪ | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/5346f657c1e6f5810b5b9df3.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/454_TVN___Reuters.png",
+    "enabled": true
+  },
+  {
+    "id": 74,
+    "name": "TVN ✪ | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/452_TVN.png",
+    "enabled": true
+  },
+  {
+    "id": 75,
+    "name": "NTV ✪ | CL",
+    "url": "https://marine2.miplay.cl/ntv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/45_NTV.png",
+    "enabled": true
+  },
+  {
+    "id": 76,
+    "name": "TVN3 ✪ | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1437_TVN3.png",
+    "enabled": true
+  },
+  {
+    "id": 77,
+    "name": "TVN 24 Horas ✪ | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/448_TVN_24_Horas.png",
+    "enabled": true
+  },
+  {
+    "id": 78,
+    "name": "Mega ✪ | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/455_Mega.png",
+    "enabled": true
+  },
+  {
+    "id": 79,
+    "name": "Meganoticias ✪ | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/449_Meganoticias.png",
+    "enabled": true
+  },
+  {
+    "id": 80,
+    "name": "CHV ✪ | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1153_CHV.png",
+    "enabled": true
+  },
+  {
+    "id": 81,
+    "name": "CHV Deportes ✪ | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1569_CHV_Deportes.png",
+    "enabled": true
+  },
+  {
+    "id": 82,
+    "name": "Canal 13 ✪ | CL",
+    "url": "https://m3u.cl/channel/c13.php?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/457_Canal_13.png",
+    "enabled": true
+  },
+  {
+    "id": 83,
+    "name": "T13 ✪ | CL",
+    "url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1054_T13.png",
+    "enabled": true
+  },
+  {
+    "id": 84,
+    "name": "T13 Radio ✪ | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1198_T13_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 85,
+    "name": "Pichilemu TV | CL",
+    "url": "https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/66_Pichilemu_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 86,
+    "name": "El 3 de Conce | CL",
+    "url": "https://5ff3d9babae13.streamlock.net:443/xedkektnqj/xedkektnqj/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/65_El_3_de_Conce.png",
+    "enabled": true
+  },
+  {
+    "id": 87,
+    "name": "Unetev | CL",
+    "url": "https://panel.tvstream.cl:1936/8070/8070/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1314_Unetev.png",
+    "enabled": true
+  },
+  {
+    "id": 88,
+    "name": "La Granja TV | CL",
+    "url": "https://oracle.streaminghd.cl/8126/8126/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1001_La_Granja_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 89,
+    "name": "Exprezion TV | CL",
+    "url": "https://vdochile.com:3264/live/cnrhiawklive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/67_Exprezion_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 90,
+    "name": "G Vision | CL",
+    "url": "https://videostream.chileservidores.com:8081/tome/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/69_G_Vision.png",
+    "enabled": true
+  },
+  {
+    "id": 91,
+    "name": "Comunitaria Radio Tv | CL",
+    "url": "https://panel.tvstream.cl:1936/8050/8050/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1457_Comunitaria_Radio_Tv.png",
+    "enabled": true
+  },
+  {
+    "id": 92,
+    "name": "Radio Caldera Vision | CL",
+    "url": "https://tv.arkeo.cl:1936/kymczwbrge/kymczwbrge/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1600_Radio_Caldera_Vision.png",
+    "enabled": true
+  },
+  {
+    "id": 93,
+    "name": "TVMas2 | CL",
+    "url": "https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1243_TVMas2.png",
+    "enabled": true
+  },
+  {
+    "id": 94,
+    "name": "13 Cultura | CL",
+    "url": "https://redirector.dps.live/hls/13cultura/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1193_13_Cultura.png",
+    "enabled": true
+  },
+  {
+    "id": 95,
+    "name": "13 Cocina | CL",
+    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1683_13_Cocina.png",
+    "enabled": true
+  },
+  {
+    "id": 96,
+    "name": "13 Pop | CL",
+    "url": "https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1033_13_Pop.png",
+    "enabled": true
+  },
+  {
+    "id": 97,
+    "name": "13 Teleseries | CL",
+    "url": "https://redirector.dps.live/hls/13t/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1032_13_Teleseries.png",
+    "enabled": true
+  },
+  {
+    "id": 98,
+    "name": "13 Festival | CL",
+    "url": "https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1446_13_Festival.png",
+    "enabled": true
+  },
+  {
+    "id": 99,
+    "name": "13 Realities | CL",
+    "url": "https://redirector.dps.live/hls/13realities/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1448_13_Realities.png",
+    "enabled": true
+  },
+  {
+    "id": 100,
+    "name": "13 Viajes | CL",
+    "url": "https://redirector.dps.live/hls/13viajes/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1684_13_Viajes.png",
+    "enabled": true
+  },
+  {
+    "id": 101,
+    "name": "13 Internacional | CL",
+    "url": "https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1685_13_Internacional.png",
+    "enabled": true
+  },
+  {
+    "id": 102,
+    "name": "U Chile TV | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1017_U_Chile_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 103,
+    "name": "UCV | CL",
+    "url": "https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/54_UCV.png",
+    "enabled": true
+  },
+  {
+    "id": 104,
+    "name": "UCV 2 | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1152_UCV_2.png",
+    "enabled": true
+  },
+  {
+    "id": 105,
+    "name": "STGO.TV | CL",
+    "url": "https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/53_STGO_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 106,
+    "name": "UTalcaTV | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/55_UTalcaTV.png",
+    "enabled": true
+  },
+  {
+    "id": 107,
+    "name": "TVU | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/56_TVU.png",
+    "enabled": true
+  },
+  {
+    "id": 108,
+    "name": "Universidad Autonoma TV | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/58_Universidad_Autonoma_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 109,
+    "name": "TV UCT | CL",
+    "url": "https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/802_TV_UCT.png",
+    "enabled": true
+  },
+  {
+    "id": 110,
+    "name": "Ufrovision | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/57_Ufrovision.png",
+    "enabled": true
+  },
+  {
+    "id": 111,
+    "name": "U Los Lagos | CL",
+    "url": "https://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/59_U_Los_Lagos.png",
+    "enabled": true
+  },
+  {
+    "id": 112,
+    "name": "UMAG TV | CL",
+    "url": "https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/60_UMAG_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 113,
+    "name": "UMAG TV 2 | CL",
+    "url": "https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/61_UMAG_TV_2.png",
+    "enabled": true
+  },
+  {
+    "id": 114,
+    "name": "UesTV | CL",
+    "url": "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/62_UesTV.png",
+    "enabled": true
+  },
+  {
+    "id": 115,
+    "name": "Weed Radio | CL",
+    "url": "https://tv.arkeo.cl:1936/weedradiocl/weedradiocl/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1577_Weed_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 116,
+    "name": "ClickRadio.cl | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/clickradio/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1332_ClickRadio_cl.png",
+    "enabled": true
+  },
+  {
+    "id": 117,
+    "name": "Camara de Diputados | CL",
+    "url": "https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png",
+    "enabled": true
+  },
+  {
+    "id": 118,
+    "name": "TV Senado | CL",
+    "url": "https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/444_TV_Senado.png",
+    "enabled": true
+  },
+  {
+    "id": 119,
+    "name": "Puranoticia | CL",
+    "url": "https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/415_Puranoticia.png",
+    "enabled": true
+  },
+  {
+    "id": 120,
+    "name": "Corcubio TV | CL",
+    "url": "http://45.225.95.154:8081/mcg/corcubio/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1515_Corcubio_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 121,
+    "name": "Señal Mediabanco | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1239_Senal_Mediabanco.png",
+    "enabled": true
+  },
+  {
+    "id": 122,
+    "name": "Caracola TV | CL",
+    "url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1020_Caracola_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 123,
+    "name": "EGM TV | CL",
+    "url": "https://paneltv.online:1936/8186/8186/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1022_EGM_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 124,
+    "name": "Radio Lado Oscuro TV | CL",
+    "url": "https://stmv5.voxtvhd.com.br/cattotv/cattotv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/895_Radio_Lado_Oscuro_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 125,
+    "name": "Raices Arabes TV | CL",
+    "url": "https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/910_Raices_Arabes_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 126,
+    "name": "Tevex | CL",
+    "url": "https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/438_Tevex.png",
+    "enabled": true
+  },
+  {
+    "id": 127,
+    "name": "TV Salud | CL",
+    "url": "https://stmv4.voxtvhd.com.br/rodrigo9120/rodrigo9120/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/436_TV_Salud.png",
+    "enabled": true
+  },
+  {
+    "id": 128,
+    "name": "Chile Channel | CL",
+    "url": "https://v2.tustreaming.cl/chilechannel/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/435_Chile_Channel.png",
+    "enabled": true
+  },
+  {
+    "id": 129,
+    "name": "Campo Abierto TV | CL",
+    "url": "https://v2.tustreaming.cl:443/catvlive/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/437_Campo_Abierto_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 130,
+    "name": "TurnoEnVivo | CL",
+    "url": "https://redirector.dps.live/hls/turno/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png",
+    "enabled": true
+  },
+  {
+    "id": 131,
+    "name": "C y G TV | CL",
+    "url": "https://tv.telselec.cl:3254/live/cygtvlive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1626_C_y_G_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 132,
+    "name": "Dodo TV | CL",
+    "url": "https://cloud5.streaminglivehd.com:3651/hybrid/play.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1622_Dodo_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 133,
+    "name": "Bombi TV | CL",
+    "url": "https://tv.arkeo.cl:1936/bombitv/bombitv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1615_Bombi_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 134,
+    "name": "TV y TV | CL",
+    "url": "https://cloudpro.servidoresdestream.com:8081/8014/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1416_TV_y_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 135,
+    "name": "FutGO | CL",
+    "url": "https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1598_FutGO.png",
+    "enabled": true
+  },
+  {
+    "id": 136,
+    "name": "D13 | CL",
+    "url": "https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1199_D13.png",
+    "enabled": true
+  },
+  {
+    "id": 137,
+    "name": "Arica TV | CL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/311_Arica_TV.jpg",
+    "enabled": true
+  },
+  {
+    "id": 138,
+    "name": "Cappissima Multimedial TV | CL",
+    "url": "https://oracle.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/312_Cappissima_Multimedial_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 139,
+    "name": "Puerta Norte | CL",
+    "url": "https://panel.tvstream.cl:1936/8030/8030/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/313_Puerta_Norte.png",
+    "enabled": true
+  },
+  {
+    "id": 140,
+    "name": "Iquique TV | CL",
+    "url": "https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/314_Iquique_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 141,
+    "name": "RTC Television | CL",
+    "url": "https://oracle.streaminghd.cl/rtctelevision/rtctelevision/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1136_RTC_Television.png",
+    "enabled": true
+  },
+  {
+    "id": 142,
+    "name": "Antofagasta TV | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/71_Antofagasta_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 143,
+    "name": "Longino TV | CL",
+    "url": "https://cloud2.streaminglivehd.com:1936/longinotv-1/longinotv-1/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1499_Longino_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 144,
+    "name": "LRP Television | CL",
+    "url": "https://v2.tustreaming.cl/lrp/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/316_LRP_Television.png",
+    "enabled": true
+  },
+  {
+    "id": 145,
+    "name": "Televisión Minera del Norte | CL",
+    "url": "https://v1.tustreaming.cl/tmntv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1375_Television_Minera_del_Norte.png",
+    "enabled": true
+  },
+  {
+    "id": 146,
+    "name": "Taltal TV | CL",
+    "url": "https://ssh101.bozztv.com/ssh101/taltal/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/905_Taltal_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 147,
+    "name": "Holvoet TV | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/72_Holvoet_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 148,
+    "name": "Atacama Noticias TV | CL",
+    "url": "https://v2.tustreaming.cl/atacamanoticias/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/319_Atacama_Noticias_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 149,
+    "name": "Atacama TV | CL",
+    "url": "https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/320_Atacama_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 150,
+    "name": "Madero TV | CL",
+    "url": "https://v1.tustreaming.cl/maderoantofagasta/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/784_Madero_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 151,
+    "name": "Huasco TV | CL",
+    "url": "https://paneltv.online:1936/8024/8024/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/321_Huasco_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 152,
+    "name": "DCH | CL",
+    "url": "https://v4.tustreaming.cl:19360/digitalchannel/digitalchannel.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1591_DCH.png",
+    "enabled": true
+  },
+  {
+    "id": 153,
+    "name": "Alternativa TV | CL",
+    "url": "https://paneltv.online:1936/ztpbqrxzsm/ztpbqrxzsm/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/462_Alternativa_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 154,
+    "name": "Enfoque Digital TV | CL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/322_Enfoque_Digital_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 155,
+    "name": "Radio RT | CL",
+    "url": "https://v1.tustreaming.cl:443/radiort/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1500_Radio_RT.png",
+    "enabled": true
+  },
+  {
+    "id": 156,
+    "name": "Maray TV | CL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8242/ngrp:8242_all/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1601_Maray_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 157,
+    "name": "Caldera Vision TV | CL",
+    "url": "https://v4.tustreaming.cl:443/calderavisiontv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1281_Caldera_Vision_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 158,
+    "name": "Nexovision | CL",
+    "url": "https://inliveserver.com:1936/11554/11554/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1451_Nexovision.png",
+    "enabled": true
+  },
+  {
+    "id": 159,
+    "name": "WF9 | CL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8240/8240/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1474_WF9.png",
+    "enabled": true
+  },
+  {
+    "id": 160,
+    "name": "La Popular TV | CL",
+    "url": "https://tv.streaming-chile.com:1936/enlacetv1/enlacetv1/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/325_La_Popular_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 161,
+    "name": "Canal 1440 Coquimbo | CL",
+    "url": "https://stmv5.voxtvhd.com.br/radiocoquimbo/radiocoquimbo/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/965_Canal_1440_Coquimbo.png",
+    "enabled": true
+  },
+  {
+    "id": 162,
+    "name": "ThemaTV | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/326_ThemaTV.png",
+    "enabled": true
+  },
+  {
+    "id": 163,
+    "name": "América TV Chile | CL",
+    "url": "https://v2.tustreaming.cl:/radioamericatv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/327_America_TV_Chile.png",
+    "enabled": true
+  },
+  {
+    "id": 164,
+    "name": "TV Elqui | CL",
+    "url": "https://panel.tvstream.cl:1936/8016/8016/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/329_TV_Elqui.png",
+    "enabled": true
+  },
+  {
+    "id": 165,
+    "name": "VTV | CL",
+    "url": "https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/335_VTV.png",
+    "enabled": true
+  },
+  {
+    "id": 166,
+    "name": "TV EnPlacilla | CL",
+    "url": "https://panel.tvstream.cl:1936/8038/8038/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1455_TV_EnPlacilla.png",
+    "enabled": true
+  },
+  {
+    "id": 167,
+    "name": "Marga Marga TV | CL",
+    "url": "https://v1.tustreaming.cl/margamargatv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1434_Marga_Marga_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 168,
+    "name": "Estacion Limache TV | CL",
+    "url": "https://v4.tustreaming.cl/limachemovil/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1427_Estacion_Limache_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 169,
+    "name": "Canal 74 TeVe | CL",
+    "url": "https://stmv5.voxtvhd.com.br/canal74hd/canal74hd/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/334_Canal_74_TeVe.png",
+    "enabled": true
+  },
+  {
+    "id": 170,
+    "name": "TV Costa | CL",
+    "url": "https://tvcosta.webredirect.org:9443/hls/live.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/332_TV_Costa.png",
+    "enabled": true
+  },
+  {
+    "id": 171,
+    "name": "Canal Local | CL",
+    "url": "https://v2.tustreaming.cl/canallocalcl/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1231_Canal_Local.png",
+    "enabled": true
+  },
+  {
+    "id": 172,
+    "name": "TV Quinta Region | CL",
+    "url": "https://stmv5.voxtvhd.com.br/tvquintaregion/tvquintaregion/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/854_TV_Quinta_Region.png",
+    "enabled": true
+  },
+  {
+    "id": 173,
+    "name": "Vida Nueva TV | CL",
+    "url": "https://stmv5.voxtvhd.com.br/vidanuevatv/vidanuevatv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/995_Vida_Nueva_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 174,
+    "name": "Frecuencia 7 Aconcagua | CL",
+    "url": "https://v2.tustreaming.cl/frecuencia7/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/464_Frecuencia_7_Aconcagua.png",
+    "enabled": true
+  },
+  {
+    "id": 175,
+    "name": "VoxPopuli Chile | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/75_VoxPopuli_Chile.png",
+    "enabled": true
+  },
+  {
+    "id": 176,
+    "name": "Canal 2 de San Antonio | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/76_Canal_2_de_San_Antonio.png",
+    "enabled": true
+  },
+  {
+    "id": 177,
+    "name": "Plaza TV | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/plazatv2/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/333_Plaza_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 178,
+    "name": "TVR | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/77_TVR.png",
+    "enabled": true
+  },
+  {
+    "id": 179,
+    "name": "Primicia Vida Television | CL",
+    "url": "https://stmv5.voxtvhd.com.br/primiciavida/primiciavida/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1485_Primicia_Vida_Television.png",
+    "enabled": true
+  },
+  {
+    "id": 180,
+    "name": "Tendencias Prime | CL",
+    "url": "https://v4.tustreaming.cl/tendenciastv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/336_Tendencias_Prime.png",
+    "enabled": true
+  },
+  {
+    "id": 181,
+    "name": "Vision Plus TV | CL",
+    "url": "https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.jpg",
+    "enabled": true
+  },
+  {
+    "id": 182,
+    "name": "Autonoma TV | CL",
+    "url": "https://wifispeed.trapemn.tv:1936/comunales/autonoma-tv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1120_Autonoma_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 183,
+    "name": "Buin Somos Todos | CL",
+    "url": "https://bst.buin.cl/0.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/337_Buin_Somos_Todos.png",
+    "enabled": true
+  },
+  {
+    "id": 184,
+    "name": "Tu Canal Colina | CL",
+    "url": "https://videostream.chileservidores.com:8081/colina/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1376_Tu_Canal_Colina.png",
+    "enabled": true
+  },
+  {
+    "id": 185,
+    "name": "Canal Noticias Colchagua | CL",
+    "url": "https://oracle.streaminghd.cl/cncmedia/cncmedia/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1404_Canal_Noticias_Colchagua.png",
+    "enabled": true
+  },
+  {
+    "id": 186,
+    "name": "RialTv | CL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8124/8124/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1599_RialTv.png",
+    "enabled": true
+  },
+  {
+    "id": 187,
+    "name": "Telecanal Santa Cruz | CL",
+    "url": "https://eu1.servers10.com:8081/8194/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png",
+    "enabled": true
+  },
+  {
+    "id": 188,
+    "name": "Providencia Television | CL",
+    "url": "https://v1.tustreaming.cl/providenciatv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1553_Providencia_Television.png",
+    "enabled": true
+  },
+  {
+    "id": 189,
+    "name": "Somos TV | CL",
+    "url": "https://v1.tustreaming.cl/somostv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1549_Somos_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 190,
+    "name": "TVO San Vicente | CL",
+    "url": "https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/340_TVO_San_Vicente.png",
+    "enabled": true
+  },
+  {
+    "id": 191,
+    "name": "Sextavision | CL",
+    "url": "https://5ff3d9babae13.streamlock.net:443/8020/8020/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/341_Sextavision.png",
+    "enabled": true
+  },
+  {
+    "id": 192,
+    "name": "TVR Canal 11 | CL",
+    "url": "https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/78_TVR_Canal_11.png",
+    "enabled": true
+  },
+  {
+    "id": 193,
+    "name": "TV Lascabras.net | CL",
+    "url": "https://vivo.solumedia.com:19360/lascabrastv/lascabrastv.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1572_TV_Lascabras_net.png",
+    "enabled": true
+  },
+  {
+    "id": 194,
+    "name": "Radio Graneros TV | CL",
+    "url": "https://stmv5.voxtvhd.com.br/radiogranerostv/radiogranerostv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1486_Radio_Graneros_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 195,
+    "name": "En Linea Maule | CL",
+    "url": "https://v1.tustreaming.cl/enlineamauletv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/79_En_Linea_Maule.png",
+    "enabled": true
+  },
+  {
+    "id": 196,
+    "name": "Santa Cruz HD | CL",
+    "url": "https://stmv5.voxtvhd.com.br/davidsantacruz/davidsantacruz/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1607_Santa_Cruz_HD.png",
+    "enabled": true
+  },
+  {
+    "id": 197,
+    "name": "VLTV | CL",
+    "url": "https://andromeda3.trapemn.tv:1936/regionales/vltv.stream/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/343_VLTV.png",
+    "enabled": true
+  },
+  {
+    "id": 198,
+    "name": "RTV | CL",
+    "url": "https://eu1.servers10.com:8081/8162/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1602_RTV.png",
+    "enabled": true
+  },
+  {
+    "id": 199,
+    "name": "El Centro TV | CL",
+    "url": "https://v1.tustreaming.cl:443/diarioelcentrotv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1432_El_Centro_TV.jpg",
+    "enabled": true
+  },
+  {
+    "id": 200,
+    "name": "TV 5 Linares | CL",
+    "url": "https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/80_TV_5_Linares.png",
+    "enabled": true
+  },
+  {
+    "id": 201,
+    "name": "Contivision | CL",
+    "url": "https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/81_Contivision.png",
+    "enabled": true
+  },
+  {
+    "id": 202,
+    "name": "Molina TV | CL",
+    "url": "https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1249_Molina_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 203,
+    "name": "UTV San Clemente | CL",
+    "url": "https://v2.tustreaming.cl/utv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/345_UTV_San_Clemente.png",
+    "enabled": true
+  },
+  {
+    "id": 204,
+    "name": "Nativa TV | CL",
+    "url": "https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/346_Nativa_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 205,
+    "name": "Maule Vision | CL",
+    "url": "https://v2.tustreaming.cl/maulevisiontv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1164_Maule_Vision.png",
+    "enabled": true
+  },
+  {
+    "id": 206,
+    "name": "Canal 30 Loncomilla | CL",
+    "url": "https://v1.tustreaming.cl:443/canal30loncomilla/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1431_Canal_30_Loncomilla.png",
+    "enabled": true
+  },
+  {
+    "id": 207,
+    "name": "Telecauquenes | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/telecauquenes/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1302_Telecauquenes.png",
+    "enabled": true
+  },
+  {
+    "id": 208,
+    "name": "Nova TV Canal 7 | CL",
+    "url": "https://freya.mivideo.pro/novatv/index.fmp4.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1497_Nova_TV_Canal_7.png",
+    "enabled": true
+  },
+  {
+    "id": 209,
+    "name": "Canal 1 | CL",
+    "url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/348_Canal_1.png",
+    "enabled": true
+  },
+  {
+    "id": 210,
+    "name": "Región Televisión Ñuble | CL",
+    "url": "https://paneltv.online:1936/8050/8050/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/903_Region_Television_Nuble.png",
+    "enabled": true
+  },
+  {
+    "id": 211,
+    "name": "Canal SCÑ - San Carlos Ñuble | CL",
+    "url": "https://live.tvcontrolcp.com:1936/sancarlostv/sancarlostv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1037_Canal_SCN___San_Carlos_Nuble.png",
+    "enabled": true
+  },
+  {
+    "id": 212,
+    "name": "Ñublevision | CL",
+    "url": "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/902_Nublevision.png",
+    "enabled": true
+  },
+  {
+    "id": 213,
+    "name": "Supersonika TV | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/supersonikatv/supersonikatv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/349_Supersonika_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 214,
+    "name": "YungayOnline | CL",
+    "url": "https://stmv5.voxtvhd.com.br/yungayonline/yungayonline/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1163_YungayOnline.png",
+    "enabled": true
+  },
+  {
+    "id": 215,
+    "name": "ClickTv | CL",
+    "url": "https://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/350_ClickTv.png",
+    "enabled": true
+  },
+  {
+    "id": 216,
+    "name": "Red Vision Television | CL",
+    "url": "https://tls-cl.cdnz.cl/livertv/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1609_Red_Vision_Television.png",
+    "enabled": true
+  },
+  {
+    "id": 217,
+    "name": "VP Televisión | CL",
+    "url": "https://v1.tustreaming.cl:19360/vozdepoder/vozdepoder.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/174_VP_Television.png",
+    "enabled": true
+  },
+  {
+    "id": 218,
+    "name": "Concepcion TV | CL",
+    "url": "https://stream.blserver.cl/hls/ctv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/352_Concepcion_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 219,
+    "name": "Canal 9 Bío Bí­o TV | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 220,
+    "name": "TV8 | CL",
+    "url": "https://panel.tvstream.cl:1936/8032/8032/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/354_TV8.png",
+    "enabled": true
+  },
+  {
+    "id": 221,
+    "name": "Pacifico Television | CL",
+    "url": "https://oracle.streaminghd.cl/pacificotelevision/pacificotelevision/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/957_Pacifico_Television.png",
+    "enabled": true
+  },
+  {
+    "id": 222,
+    "name": "San Pedro Conecta | CL",
+    "url": "https://stmv5.voxtvhd.com.br/sanpedroconectatv/sanpedroconectatv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/948_San_Pedro_Conecta.png",
+    "enabled": true
+  },
+  {
+    "id": 223,
+    "name": "Club TV | CL",
+    "url": "https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/810_Club_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 224,
+    "name": "Teleangol Radio | CL",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/82_Teleangol_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 225,
+    "name": "CRadio.cl | CL",
+    "url": "https://tls-cl.cdnz.cl/cradio/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1013_CRadio_cl.png",
+    "enabled": true
+  },
+  {
+    "id": 226,
+    "name": "Pucon TV | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/83_Pucon_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 227,
+    "name": "Temuco TV | CL",
+    "url": "https://mediacp.nnw.cl:19360/temucotelevision/temucotelevision.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/357_Temuco_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 228,
+    "name": "TecTV | CL",
+    "url": "https://tectv.ngrok.app/hls/stream.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/358_TecTV.png",
+    "enabled": true
+  },
+  {
+    "id": 229,
+    "name": "Veo TV | CL",
+    "url": "https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1385_Veo_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 230,
+    "name": "RAYZ Noticias | CL",
+    "url": "https://panel.tvstream.cl:1936/8058/8058/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1503_RAYZ_Noticias.png",
+    "enabled": true
+  },
+  {
+    "id": 231,
+    "name": "Canal Latino 54 | CL",
+    "url": "https://videostream.chileservidores.com:8081/latina/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/359_Canal_Latino_54.png",
+    "enabled": true
+  },
+  {
+    "id": 232,
+    "name": "TV Canal 5 | CL",
+    "url": "https://vdochile.com:3317/stream/play.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1469_TV_Canal_5.png",
+    "enabled": true
+  },
+  {
+    "id": 233,
+    "name": "Los Sauces TV | CL",
+    "url": "http://live.mundogo.cl/mundo/LossaucesTV/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1318_Los_Sauces_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 234,
+    "name": "Lautarovision | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/metamediacl/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1642_Lautarovision.png",
+    "enabled": true
+  },
+  {
+    "id": 235,
+    "name": "Lanco TV | CL",
+    "url": "https://5e3483cba9114.streamlock.net:443/hfvhxfwxjm/hfvhxfwxjm/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1299_Lanco_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 236,
+    "name": "Apocalipsis TV | CL",
+    "url": "https://us.streaminghd.cl/apocalipsistvd/video.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1610_Apocalipsis_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 237,
+    "name": "ATV Valdivia | CL",
+    "url": "https://videolatam.com:3871/live/atvvaldivialive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1383_ATV_Valdivia.png",
+    "enabled": true
+  },
+  {
+    "id": 238,
+    "name": "Osorno TV+ | CL",
+    "url": "https://envivo.osornotv.cl/memfs/cb5800be-330b-40c9-8519-af788c7e29eb.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/360_Osorno_TV_.png",
+    "enabled": true
+  },
+  {
+    "id": 239,
+    "name": "Decima TV | CL",
+    "url": "https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/85_Decima_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 240,
+    "name": "TVM | CL",
+    "url": "https://stream.skarnetchile.com:19360/canaltvm/canaltvm.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1293_TVM.png",
+    "enabled": true
+  },
+  {
+    "id": 241,
+    "name": "T-Vinet | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/inet2/inet2.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/84_T_Vinet.png",
+    "enabled": true
+  },
+  {
+    "id": 242,
+    "name": "Canal 2 Quellon | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/86_Canal_2_Quellon.png",
+    "enabled": true
+  },
+  {
+    "id": 243,
+    "name": "Vision TV | CL",
+    "url": "https://eu1.servers10.com:8081/8358/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/361_Vision_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 244,
+    "name": "Canal 5 Puerto Montt | CL",
+    "url": "https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/364_Canal_5_Puerto_Montt.png",
+    "enabled": true
+  },
+  {
+    "id": 245,
+    "name": "Canal Chilote | CL",
+    "url": "https://us.streaminghd.cl/canalchilote53/video.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/365_Canal_Chilote.png",
+    "enabled": true
+  },
+  {
+    "id": 246,
+    "name": "Hito Cero TV | CL",
+    "url": "https://5e3483cba9114.streamlock.net:443/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/856_Hito_Cero_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 247,
+    "name": "Chiloe Red 25 | CL",
+    "url": "https://v2.tustreaming.cl/chiloered/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/366_Chiloe_Red_25.png",
+    "enabled": true
+  },
+  {
+    "id": 248,
+    "name": "Alerce TV | CL",
+    "url": "https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1396_Alerce_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 249,
+    "name": "Santa Maria TV | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/smtv/smtv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/368_Santa_Maria_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 250,
+    "name": "Rocco TV 4 | CL",
+    "url": "https://v2.tustreaming.cl/roccotv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/367_Rocco_TV_4.png",
+    "enabled": true
+  },
+  {
+    "id": 251,
+    "name": "Canal 11 TV Aysen | CL",
+    "url": "https://v2.tustreaming.cl/canal11aysen/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/369_Canal_11_TV_Aysen.png",
+    "enabled": true
+  },
+  {
+    "id": 252,
+    "name": "Aysen TV | CL",
+    "url": "https://v1.tustreaming.cl/aysentv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1012_Aysen_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 253,
+    "name": "La Melinkana TV | CL",
+    "url": "https://v1.tustreaming.cl/melinkana/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1393_La_Melinkana_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 254,
+    "name": "Soberania Radio | CL",
+    "url": "https://tls-cl.cdnz.cl/radiosoberania/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/370_Soberania_Radio.png?rand=gno0eilDum",
+    "enabled": true
+  },
+  {
+    "id": 255,
+    "name": "SurTV | CL",
+    "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/surtv/surtv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1116_SurTV.png",
+    "enabled": true
+  },
+  {
+    "id": 256,
+    "name": "ITV Patagonia | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/87_ITV_Patagonia.png",
+    "enabled": true
+  },
+  {
+    "id": 257,
+    "name": "EvaVisión | CL",
+    "url": "https://stmv4.voxtvhd.com.br/evavision/evavision/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/371_EvaVision.png",
+    "enabled": true
+  },
+  {
+    "id": 258,
+    "name": "Canal Sur Patagonia | CL",
+    "url": "https://v2.tustreaming.cl/fmarcoirirs/tracks-v1a1/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/372_Canal_Sur_Patagonia.png",
+    "enabled": true
+  },
+  {
+    "id": 259,
+    "name": "PinguinoTV | CL",
+    "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/373_PinguinoTV.png",
+    "enabled": true
+  },
+  {
+    "id": 260,
+    "name": "TV Chile | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/491_TV_Chile.png",
+    "enabled": true
+  },
+  {
+    "id": 261,
+    "name": "CTV35 | CL",
+    "url": "https://paneltv.online:1936/8040/8040/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1608_CTV35.png",
+    "enabled": true
+  },
+  {
+    "id": 262,
+    "name": "Teletrak | CL",
+    "url": "https://teletraktv.janus.cl/playlist/stream.m3u8?t=0&s=&p=&id=lufuufsd&d=w&PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/376_Teletrak.png",
+    "enabled": true
+  },
+  {
+    "id": 263,
+    "name": "TV Turf | CL",
+    "url": "https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=lufv0n9d&t=1711909093&q=2&s=sd&PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/374_TV_Turf.png",
+    "enabled": true
+  },
+  {
+    "id": 264,
+    "name": "Valparaiso Sporting | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/375_Valparaiso_Sporting.png",
+    "enabled": true
+  },
+  {
+    "id": 265,
+    "name": "Sensacion Costa | CL",
+    "url": "https://sensaciontv.ddnsguru.com/hls/live.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/849_Sensacion_Costa.png",
+    "enabled": true
+  },
+  {
+    "id": 266,
+    "name": "La Sabrosura TV | CL",
+    "url": "https://tv.arkeo.cl:1936/radiosabrosura/radiosabrosura/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/889_La_Sabrosura_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 267,
+    "name": "Carolina TV | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/27_Carolina_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 268,
+    "name": "Carolina TV 2 | CL",
+    "url": "https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png",
+    "enabled": true
+  },
+  {
+    "id": 269,
+    "name": "DJ Loncho TV | CL",
+    "url": "https://srv5.zcast.com.br/alonso9520/alonso9520/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/29_DJ_Loncho_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 270,
+    "name": "Maxima FM | CL",
+    "url": "https://cdn.streamingcpanel.com:3597/live/maximafmlive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/33_Maxima_FM.png",
+    "enabled": true
+  },
+  {
+    "id": 271,
+    "name": "RadioBaezaTV | CL",
+    "url": "https://panel.tvstream.cl:1936/8056/8056/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/892_RadioBaezaTV.png",
+    "enabled": true
+  },
+  {
+    "id": 272,
+    "name": "TV vconline.cl | CL",
+    "url": "https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/34_TV_vconline_cl.png",
+    "enabled": true
+  },
+  {
+    "id": 273,
+    "name": "Top New Radio | CL",
+    "url": "https://5ff3d9babae13.streamlock.net:443/dxwdsmgesp/dxwdsmgesp/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/973_Top_New_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 274,
+    "name": "Radio Edelweiss | CL",
+    "url": "https://streamdemo.dyndns.biz/hls/edelweiss_src.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1313_Radio_Edelweiss.png",
+    "enabled": true
+  },
+  {
+    "id": 275,
+    "name": "Radio Araucania Laja | CL",
+    "url": "https://stmv5.voxtvhd.com.br/radioaraucania/radioaraucania/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1468_Radio_Araucania_Laja.png",
+    "enabled": true
+  },
+  {
+    "id": 276,
+    "name": "M Music TV | CL",
+    "url": "https://cloudpro.servidoresdestream.com:8081/8036/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1550_M_Music_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 277,
+    "name": "Radio Acogida | CL",
+    "url": "https://videostream.chileservidores.com:8081/chiloe3/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1389_Radio_Acogida.png",
+    "enabled": true
+  },
+  {
+    "id": 278,
+    "name": "Urban Pro DJ | CL",
+    "url": "https://vdochile.com:3115/hybrid/play.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1476_Urban_Pro_DJ.png",
+    "enabled": true
+  },
+  {
+    "id": 279,
+    "name": "En la Noticia | CL",
+    "url": "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1391_En_la_Noticia.png",
+    "enabled": true
+  },
+  {
+    "id": 280,
+    "name": "Solobailalo TV | CL",
+    "url": "https://5ff3d9babae13.streamlock.net:443/8000/8000/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1128_Solobailalo_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 281,
+    "name": "Milodon TV | CL",
+    "url": "https://video8.servidordevideo.net:3161/live/ynhpdikjlive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1407_Milodon_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 282,
+    "name": "Latina TV | CL",
+    "url": "https://paneltv.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1566_Latina_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 283,
+    "name": "Radio Continente FM | CL",
+    "url": "https://streamlov.alsolnet.com/continentefm/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1408_Radio_Continente_FM.png",
+    "enabled": true
+  },
+  {
+    "id": 284,
+    "name": "Ritmo Top Latino | CL",
+    "url": "https://panel.tvstream.cl:1936/8048/8048/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1564_Ritmo_Top_Latino.png",
+    "enabled": true
+  },
+  {
+    "id": 285,
+    "name": "Radio Stefania | CL",
+    "url": "https://stmv5.voxtvhd.com.br/franzvalenzuela/franzvalenzuela/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1415_Radio_Stefania.png",
+    "enabled": true
+  },
+  {
+    "id": 286,
+    "name": "Play Music Conectados | CL",
+    "url": "https://vdo.paneldalestream.com:3869/live/playmusiclive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1319_Play_Music_Conectados.png",
+    "enabled": true
+  },
+  {
+    "id": 287,
+    "name": "El Conquistador La Serena | CL",
+    "url": "https://v4.tustreaming.cl:443/elcqlaserena/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1647_El_Conquistador_La_Serena.png",
+    "enabled": true
+  },
+  {
+    "id": 288,
+    "name": "Red Circle | CL",
+    "url": "https://5e3483cba9114.streamlock.net:443/8016/8016/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1403_Red_Circle.png",
+    "enabled": true
+  },
+  {
+    "id": 289,
+    "name": "Radio Rosa FM | CL",
+    "url": "https://tv.arkeo.cl:1936/rosafm/rosafm/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1422_Radio_Rosa_FM.png",
+    "enabled": true
+  },
+  {
+    "id": 290,
+    "name": "Radio Video Mix | CL",
+    "url": "https://radioxxx.ddns.net/hls/stream.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1623_Radio_Video_Mix.png",
+    "enabled": true
+  },
+  {
+    "id": 291,
+    "name": "Radio Bienvenida FM | CL",
+    "url": "https://panel.tvstream.cl:1936/8012/8012/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1463_Radio_Bienvenida_FM.png",
+    "enabled": true
+  },
+  {
+    "id": 292,
+    "name": "Chile Remix | CL",
+    "url": "https://vdochile.com:3803/live/ckdj2live.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1586_Chile_Remix.png",
+    "enabled": true
+  },
+  {
+    "id": 293,
+    "name": "Radio UC | CL",
+    "url": "https://stmv5.voxtvhd.com.br/radiouc/radiouc/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1467_Radio_UC.png",
+    "enabled": true
+  },
+  {
+    "id": 294,
+    "name": "Autonoma Radio | CL",
+    "url": "https://wifispeed.trapemn.tv:1936/radios/autonoma-radio/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1284_Autonoma_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 295,
+    "name": "Santa Cruz FM | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/rcruz/rcruz.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1309_Santa_Cruz_FM.png",
+    "enabled": true
+  },
+  {
+    "id": 296,
+    "name": "Subela Radio | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1248_Subela_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 297,
+    "name": "Radio Ritmo FM | CL",
+    "url": "https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1196_Radio_Ritmo_FM.png",
+    "enabled": true
+  },
+  {
+    "id": 298,
+    "name": "Radio Mia 89.3 Fm | CL",
+    "url": "https://stmv5.voxtvhd.com.br/radiomia/radiomia/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1173_Radio_Mia_89_3_Fm.png",
+    "enabled": true
+  },
+  {
+    "id": 299,
+    "name": "Radio Magallanes | CL",
+    "url": "https://us.streaminghd.cl/radiomagallanes/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1069_Radio_Magallanes.png",
+    "enabled": true
+  },
+  {
+    "id": 300,
+    "name": "Radio Maqui | CL",
+    "url": "https://streamyes.alsolnet.com/maquiradio/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1134_Radio_Maqui.png",
+    "enabled": true
+  },
+  {
+    "id": 301,
+    "name": "Radio Popular Coihueco | CL",
+    "url": "https://tv.streaming-chile.com:19360/8052/8052.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1122_Radio_Popular_Coihueco.png",
+    "enabled": true
+  },
+  {
+    "id": 302,
+    "name": "Ritmo TV | CL",
+    "url": "https://vdo.streaming-chile.com:3210/live/ritmofmlive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1004_Ritmo_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 303,
+    "name": "Emocion TV | CL",
+    "url": "https://v1.tustreaming.cl/emociontv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/987_Emocion_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 304,
+    "name": "Zona Play Radio | CL",
+    "url": "https://tv1.mediacp.eu:3131/live/dilxbgxylive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/387_Zona_Play_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 305,
+    "name": "Tributo Valentina | CL",
+    "url": "https://vdochile.com:3795/hybrid/play.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/786_Tributo_Valentina.png",
+    "enabled": true
+  },
+  {
+    "id": 306,
+    "name": "Radio La Serena | CL",
+    "url": "https://stmv5.voxtvhd.com.br/radiolaserena/radiolaserena/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1125_Radio_La_Serena.png",
+    "enabled": true
+  },
+  {
+    "id": 307,
+    "name": "Patagonia Radio TV | CL",
+    "url": "https://video01.logicahost.com.br/grupomedia/grupomedia/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/974_Patagonia_Radio_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 308,
+    "name": "Conecta2 TV | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tv25/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/956_Conecta2_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 309,
+    "name": "Red Fueguina Radio | CL",
+    "url": "https://stmv5.voxtvhd.com.br/redfueguina/redfueguina/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/400_Red_Fueguina_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 310,
+    "name": "Radio Via Libre | CL",
+    "url": "https://stmv5.voxtvhd.com.br/vialibre/vialibre/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/396_Radio_Via_Libre.png",
+    "enabled": true
+  },
+  {
+    "id": 311,
+    "name": "Radio Universal | CL",
+    "url": "https://videostream.chileservidores.com:8081/universal/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/390_Radio_Universal.png",
+    "enabled": true
+  },
+  {
+    "id": 312,
+    "name": "Radio Touch | CL",
+    "url": "https://tv.streaming-chile.com:1936/radiotouch/radiotouch/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/394_Radio_Touch.png",
+    "enabled": true
+  },
+  {
+    "id": 313,
+    "name": "Sabor TV | CL",
+    "url": "https://v1.tustreaming.cl/sabortv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/416_Sabor_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 314,
+    "name": "Radio Frecuencia Uno | CL",
+    "url": "https://v1.tustreaming.cl/frecuencia1tv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png",
+    "enabled": true
+  },
+  {
+    "id": 315,
+    "name": "Radio Rancagua | CL",
+    "url": "https://tv.streaming-chile.com:8081/radiorancagua/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/418_Radio_Rancagua.png",
+    "enabled": true
+  },
+  {
+    "id": 316,
+    "name": "Radio Presidente Ibañez | CL",
+    "url": "https://ibanez.servercl.com/hls/live.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/413_Radio_Presidente_Ibanez.png",
+    "enabled": true
+  },
+  {
+    "id": 317,
+    "name": "Radio Portales | CL",
+    "url": "https://andromeda2.trapemn.tv:1936/radios/radioportales.stream/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/420_Radio_Portales.png",
+    "enabled": true
+  },
+  {
+    "id": 318,
+    "name": "Radio Polar | CL",
+    "url": "https://stmv5.voxtvhd.com.br/radiopolar/radiopolar/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/403_Radio_Polar.png",
+    "enabled": true
+  },
+  {
+    "id": 319,
+    "name": "Radio Navarino | CL",
+    "url": "https://panel.tvstream.cl:1936/8000/8000/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1538_Radio_Navarino.png",
+    "enabled": true
+  },
+  {
+    "id": 320,
+    "name": "Radio Las Nieves | CL",
+    "url": "https://v2.tustreaming.cl/rln/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/408_Radio_Las_Nieves.png",
+    "enabled": true
+  },
+  {
+    "id": 321,
+    "name": "Radio Zona 90.3 | CL",
+    "url": "https://live.tvcontrolcp.com:8081/radiozona/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1629_Radio_Zona_90_3.png",
+    "enabled": true
+  },
+  {
+    "id": 322,
+    "name": "Ciudadano Radio | CL",
+    "url": "https://oracle.streaminghd.cl:443/ciudadanoradiotv/ciudadanoradiotv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1655_Ciudadano_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 323,
+    "name": "Radio Hoy | CL",
+    "url": "https://panel.host-live.com:19360/8146/8146.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/380_Radio_Hoy.png",
+    "enabled": true
+  },
+  {
+    "id": 324,
+    "name": "Radio Genial TV | CL",
+    "url": "https://v1.tustreaming.cl:443/genialtv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/412_Radio_Genial_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 325,
+    "name": "Radio Fiessta | CL",
+    "url": "https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/401_Radio_Fiessta.png",
+    "enabled": true
+  },
+  {
+    "id": 326,
+    "name": "Radio Panoramica | CL",
+    "url": "https://v2.tustreaming.cl:/alingeproducciones/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png",
+    "enabled": true
+  },
+  {
+    "id": 327,
+    "name": "Radio Favorita | CL",
+    "url": "https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/417_Radio_Favorita.png",
+    "enabled": true
+  },
+  {
+    "id": 328,
+    "name": "Radio Ñuble | CL",
+    "url": "https://tv.telselec.cl:3376/live/nublefmlive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/870_Radio_Nuble.png",
+    "enabled": true
+  },
+  {
+    "id": 329,
+    "name": "Radio Fantasia TV | CL",
+    "url": "https://v2.tustreaming.cl/fantasiatv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 330,
+    "name": "Cosmos TV | CL",
+    "url": "https://v1.tustreaming.cl/cosmostv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/405_Cosmos_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 331,
+    "name": "Radio Chiloe | CL",
+    "url": "https://videostream.chileservidores.com:8081/chiloe1/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/409_Radio_Chiloe.png",
+    "enabled": true
+  },
+  {
+    "id": 332,
+    "name": "Radio Camila TV | CL",
+    "url": "https://panel.tvstream.cl:1936/8008/8008/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/410_Radio_Camila_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 333,
+    "name": "Preludio TV | CL",
+    "url": "https://tv.arkeo.cl:1936/preludio/preludio/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/407_Preludio_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 334,
+    "name": "Revolviendola Radio | CL",
+    "url": "https://giatv.bozztv.com/giatv/giatv-revolviendolaradio/revolviendolaradio/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1639_Revolviendola_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 335,
+    "name": "Mi Radio TV | CL",
+    "url": "https://tls-cl.cdnz.cl/miradio2/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/395_Mi_Radio_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 336,
+    "name": "Radio Romantica | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/428_Radio_Romantica.png",
+    "enabled": true
+  },
+  {
+    "id": 337,
+    "name": "FM Pulso | CL",
+    "url": "https://oracle.streaminghd.cl:443/fmpulso/fmpulso/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/397_FM_Pulso.png",
+    "enabled": true
+  },
+  {
+    "id": 338,
+    "name": "Interradio TV | CL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8256/8256/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/411_Interradio_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 339,
+    "name": "El Conquistador Santiago | CL",
+    "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1478_El_Conquistador_Santiago.png",
+    "enabled": true
+  },
+  {
+    "id": 340,
+    "name": "El Sembrador | CL",
+    "url": "https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/398_El_Sembrador.png",
+    "enabled": true
+  },
+  {
+    "id": 341,
+    "name": "El Conquistador Concepcion | CL",
+    "url": "https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/419_El_Conquistador_Concepcion.png",
+    "enabled": true
+  },
+  {
+    "id": 342,
+    "name": "Radio Contemporanea Coihueco | CL",
+    "url": "https://stream.gia.tv/giatv/giatv-contemporaneacoihueco/contemporaneacoihueco/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1493_Radio_Contemporanea_Coihueco.png",
+    "enabled": true
+  },
+  {
+    "id": 343,
+    "name": "Radio La Señal | CL",
+    "url": "https://5ff3d9babae13.streamlock.net:443/chrgkqgkyb/chrgkqgkyb/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1571_Radio_La_Senal.png",
+    "enabled": true
+  },
+  {
+    "id": 344,
+    "name": "Radio Ancoa TV | CL",
+    "url": "https://v2.tustreaming.cl/radioancoatv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/406_Radio_Ancoa_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 345,
+    "name": "Nina TV | CL",
+    "url": "https://stream.skarnetchile.com:19360/ninatv/ninatv.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1552_Nina_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 346,
+    "name": "AE Radio | CL",
+    "url": "https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/414_AE_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 347,
+    "name": "La Metro | CL",
+    "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1534_La_Metro.png",
+    "enabled": true
+  },
+  {
+    "id": 348,
+    "name": "Radio Proyeccion | CL",
+    "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/rprotv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1613_Radio_Proyeccion.png",
+    "enabled": true
+  },
+  {
+    "id": 349,
+    "name": "Radio Imagen 106.5 | CL",
+    "url": "https://panel.tvstream.cl:1936/8066/8066/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1565_Radio_Imagen_106_5.png",
+    "enabled": true
+  },
+  {
+    "id": 350,
+    "name": "Radioactiva TV | CL",
+    "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/radioactivatv/radioactivatv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1301_Radioactiva_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 351,
+    "name": "Sabrosona TV | CL",
+    "url": "https://samson.streamerr.co:8081/sabrosonavideo/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1541_Sabrosona_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 352,
+    "name": "La Clave | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/laclavetv/laclavetv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1270_La_Clave.png",
+    "enabled": true
+  },
+  {
+    "id": 353,
+    "name": "Dance FM | CL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1166_Dance_FM.png",
+    "enabled": true
+  },
+  {
+    "id": 354,
+    "name": "Pauta TV | CL",
+    "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/882_Pauta_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 355,
+    "name": "Radio Infinita | CL",
+    "url": "https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/425_Radio_Infinita.png",
+    "enabled": true
+  },
+  {
+    "id": 356,
+    "name": "Radio Agricultura | CL",
+    "url": "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/423_Radio_Agricultura.png",
+    "enabled": true
+  },
+  {
+    "id": 357,
+    "name": "Radio Agricultura 2 | CL",
+    "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/agceventos/agceventos.smil/playlist.m3u8?&PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1673_Radio_Agricultura_2.png",
+    "enabled": true
+  },
+  {
+    "id": 358,
+    "name": "Radio Duna | CL",
+    "url": "https://unlimited2-cl-isp.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/427_Radio_Duna.png",
+    "enabled": true
+  },
+  {
+    "id": 359,
+    "name": "Pudahuel FM | CL",
+    "url": "https://unlimited2-cl-isp.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/429_Pudahuel_FM.png",
+    "enabled": true
+  },
+  {
+    "id": 360,
+    "name": "Cooperativa | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/422_Cooperativa.png",
+    "enabled": true
+  },
+  {
+    "id": 361,
+    "name": "ADN | CL",
+    "url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/424_ADN.png",
+    "enabled": true
+  },
+  {
+    "id": 362,
+    "name": "La Nuestra | CL",
+    "url": "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1472_La_Nuestra.png",
+    "enabled": true
+  },
+  {
+    "id": 363,
+    "name": "TNE | CL",
+    "url": "https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/168_TNE.png",
+    "enabled": true
+  },
+  {
+    "id": 364,
+    "name": "Televida HD | CL",
+    "url": "https://tls-cl.cdnz.cl/televida/live/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/169_Televida_HD.png",
+    "enabled": true
+  },
+  {
+    "id": 365,
+    "name": "Restaurando Vidas TV | CL",
+    "url": "https://v4.tustreaming.cl/restaurandovida/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/351_Restaurando_Vidas_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 366,
+    "name": "Radio Vida Curico | CL",
+    "url": "https://v2.tustreaming.cl/radiovidacurico/rewind-999999.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/167_Radio_Vida_Curico.png",
+    "enabled": true
+  },
+  {
+    "id": 367,
+    "name": "NCTV | CL",
+    "url": "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/164_NCTV.png",
+    "enabled": true
+  },
+  {
+    "id": 368,
+    "name": "Gracia TV | CL",
+    "url": "https://v4.tustreaming.cl/graciatv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/163_Gracia_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 369,
+    "name": "Canal ISB | CL",
+    "url": "https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/159_Canal_ISB.png",
+    "enabled": true
+  },
+  {
+    "id": 370,
+    "name": "Casa Sobre La Roca TV | CL",
+    "url": "https://cp.panelchs.com:1936/8118/8118/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1186_Casa_Sobre_La_Roca_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 371,
+    "name": "Metanoia TV | CL",
+    "url": "https://live.mtna.tv:3577/live/metanoiatvlive.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1384_Metanoia_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 372,
+    "name": "IPNA Medio | CL",
+    "url": "https://paneltv.online:1936/8184/8184/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1399_IPNA_Medio.png",
+    "enabled": true
+  },
+  {
+    "id": 373,
+    "name": "Enlace BPB | CL",
+    "url": "https://v1.tustreaming.cl/enlacebpbtv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1412_Enlace_BPB.png",
+    "enabled": true
+  },
+  {
+    "id": 374,
+    "name": "Escuchame Radio | CL",
+    "url": "https://Stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/173_Escuchame_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 375,
+    "name": "Fortaleza Radio | CL",
+    "url": "https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1480_Fortaleza_Radio.png",
+    "enabled": true
+  },
+  {
+    "id": 376,
+    "name": "Fortaleza TV | CL",
+    "url": "https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1479_Fortaleza_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 377,
+    "name": "CESTV | CL",
+    "url": "https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1514_CESTV.png",
+    "enabled": true
+  },
+  {
+    "id": 378,
+    "name": "ADA TV | CL",
+    "url": "https://stream.blserver.cl/hls/adatv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://cdn.m3u.cl/logo/1638_ADA_TV.png",
+    "enabled": true
+  },
+  {
+    "id": 379,
+    "name": "Canal 379",
+    "url": "https://stream.blserver.cl/hls/adatv/index.m3u8?PlaylistM3UCL",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/TV_icon_2.svg",
+    "enabled": true
+  }
+]
