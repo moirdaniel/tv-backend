@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    name: Despliegue directo con Dockerfile
+    name: Despliegue desde Dockerfile
     runs-on: self-hosted
 
     steps:
@@ -16,29 +16,23 @@ jobs:
         echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S rm -rf /tmp/tv-backend
         git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/moirdaniel/tv-backend.git /tmp/tv-backend
 
-    - name: Verificar y liberar puerto 3000 si lo usa Docker
+    - name: Forzar liberación del puerto 3000
       run: |
         PORT_PID=$(sudo lsof -ti:3000 || true)
         if [ -n "$PORT_PID" ]; then
-          CONTAINER_ID=$(sudo docker ps -q --filter publish=3000)
-          if [ -n "$CONTAINER_ID" ]; then
-            echo "Contenedor en puerto 3000: $CONTAINER_ID. Deteniendo..."
-            echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker stop $CONTAINER_ID
-            echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker rm $CONTAINER_ID
-          else
-            echo "⚠️ El puerto 3000 está ocupado por un proceso externo (PID $PORT_PID). Abortando por seguridad."
-            exit 1
-          fi
+          echo "⚠️ Matando proceso que usa el puerto 3000 (PID: $PORT_PID)..."
+          echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S kill -9 $PORT_PID
+          sleep 1
         fi
 
-    - name: Eliminar contenedor previo por nombre (si existe)
+    - name: Eliminar contenedor anterior si existe
       run: |
         if [ "$(docker ps -aq -f name=tv-backend)" ]; then
           echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker stop tv-backend || true
           echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker rm tv-backend || true
         fi
 
-    - name: Construir imagen Docker
+    - name: Construir imagen desde Dockerfile
       run: |
         cd /tmp/tv-backend
         echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker build -t tv-backend:latest .
@@ -52,5 +46,6 @@ jobs:
           -v /tmp/tv-backend:/app \
           tv-backend:latest
 
-    - name: Verificar ejecución
-      run: docker ps --filter "name=tv-backend"
+    - name: Verificar contenedor en ejecución
+      run: |
+        docker ps --filter "name=tv-backend"
