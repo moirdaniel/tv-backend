@@ -7,19 +7,17 @@ on:
 
 jobs:
   deploy:
-    name: Despliegue local en Serv01
     runs-on: self-hosted
+    name: Despliegue desde GitHub privado
 
     steps:
-    - name: Pull últimos cambios
+    - name: Limpiar y clonar desde GitHub
       run: |
-        cd /docker-apps/tv-backend
-        git pull origin main
+        rm -rf /tmp/tv-backend
+        git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/moirdaniel/tv-backend.git /tmp/tv-backend
 
-    - name: Actualizar contenedores
+    - name: Levantar contenedores con Docker Compose
       run: |
+        cd /tmp/tv-backend
         docker compose pull
         docker compose up -d --remove-orphans
-
-    - name: Verificar estado de servicios
-      run: docker ps
