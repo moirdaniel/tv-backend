@@ -11,38 +11,46 @@ jobs:
     runs-on: self-hosted
 
     steps:
-    - name: Limpiar clon anterior y clonar repo privado
+    - name: Clonar repo privado
       run: |
         echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S rm -rf /tmp/tv-backend
         git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/moirdaniel/tv-backend.git /tmp/tv-backend
 
-    - name: Detener contenedor que usa el puerto 3000 (si existe)
+    - name: Verificar y liberar puerto 3000 si lo usa Docker
       run: |
-        EXISTING=$(docker ps -q --filter "publish=3000")
-        if [ -n "$EXISTING" ]; then
-          echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker stop $EXISTING
-          echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker rm $EXISTING
+        PORT_PID=$(sudo lsof -ti:3000 || true)
+        if [ -n "$PORT_PID" ]; then
+          CONTAINER_ID=$(sudo docker ps -q --filter publish=3000)
+          if [ -n "$CONTAINER_ID" ]; then
+            echo "Contenedor en puerto 3000: $CONTAINER_ID. Deteniendo..."
+            echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker stop $CONTAINER_ID
+            echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker rm $CONTAINER_ID
+          else
+            echo "⚠️ El puerto 3000 está ocupado por un proceso externo (PID $PORT_PID). Abortando por seguridad."
+            exit 1
+          fi
         fi
 
-    - name: Detener contenedor anterior por nombre (si existe)
+    - name: Eliminar contenedor previo por nombre (si existe)
       run: |
         if [ "$(docker ps -aq -f name=tv-backend)" ]; then
           echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker stop tv-backend || true
           echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker rm tv-backend || true
         fi
 
-    - name: Construir imagen desde Dockerfile
+    - name: Construir imagen Docker
       run: |
         cd /tmp/tv-backend
         echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker build -t tv-backend:latest .
 
-    - name: Ejecutar nuevo contenedor
+    - name: Iniciar nuevo contenedor
       run: |
         echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker run -d \
           --name tv-backend \
+          --restart unless-stopped \
           -p 3000:3000 \
           -v /tmp/tv-backend:/app \
           tv-backend:latest
 
-    - name: Verificar contenedor en ejecución
+    - name: Verificar ejecución
       run: docker ps --filter "name=tv-backend"
