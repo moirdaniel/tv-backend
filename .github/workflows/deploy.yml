@@ -11,25 +11,38 @@ jobs:
     runs-on: self-hosted
 
     steps:
-    - name: Clonar código desde GitHub privado
+    - name: Limpiar clon anterior y clonar repo privado
       run: |
         echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S rm -rf /tmp/tv-backend
         git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/moirdaniel/tv-backend.git /tmp/tv-backend
 
-    - name: Detener contenedor anterior si existe
+    - name: Detener contenedor que usa el puerto 3000 (si existe)
       run: |
-        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker stop tv-backend || true
-        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker rm tv-backend || true
+        EXISTING=$(docker ps -q --filter "publish=3000")
+        if [ -n "$EXISTING" ]; then
+          echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker stop $EXISTING
+          echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker rm $EXISTING
+        fi
+
+    - name: Detener contenedor anterior por nombre (si existe)
+      run: |
+        if [ "$(docker ps -aq -f name=tv-backend)" ]; then
+          echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker stop tv-backend || true
+          echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker rm tv-backend || true
+        fi
 
     - name: Construir imagen desde Dockerfile
       run: |
         cd /tmp/tv-backend
         echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker build -t tv-backend:latest .
 
-    - name: Iniciar contenedor
+    - name: Ejecutar nuevo contenedor
       run: |
         echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker run -d \
           --name tv-backend \
           -p 3000:3000 \
           -v /tmp/tv-backend:/app \
           tv-backend:latest
+
+    - name: Verificar contenedor en ejecución
+      run: docker ps --filter "name=tv-backend"
