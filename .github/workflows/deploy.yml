@@ -7,26 +7,19 @@ on:
 
 jobs:
   deploy:
-    name: Deploy to Server
-    runs-on: ubuntu-latest
+    name: Despliegue local en Serv01
+    runs-on: self-hosted
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+    - name: Pull últimos cambios
+      run: |
+        cd /docker-apps/tv-backend
+        git pull origin main
 
-    - name: Deploy over SSH using Cloudflare Access
-      uses: appleboy/ssh-action@v1.0.0
-      with:
-        host: ${{ secrets.TV_BACKEND_HOST }}
-        username: ${{ secrets.TV_BACKEND_USER }}
-        key: ${{ secrets.TV_BACKEND_SSH_KEY }}
-        proxy_host: ${{ secrets.TV_BACKEND_HOST }}
-        proxy_port: 443
-        proxy_username: ${{ secrets.CF_ACCESS_CLIENT_ID }}
-        proxy_password: ${{ secrets.CF_ACCESS_CLIENT_SECRET }}
-        use_insecure_cipher: true
-        script: |
-          cd /docker-apps/tv-backend
-          git pull origin main
-          docker compose pull
-          docker compose up -d
+    - name: Actualizar contenedores
+      run: |
+        docker compose pull
+        docker compose up -d --remove-orphans
+
+    - name: Verificar estado de servicios
+      run: docker ps
