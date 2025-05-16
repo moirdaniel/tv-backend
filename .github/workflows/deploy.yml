@@ -7,25 +7,22 @@ on:
 
 jobs:
   deploy:
-    name: Desplegar en Serv01
+    name: Despliegue usando dmoir
     runs-on: self-hosted
 
     steps:
     - name: Clonar código desde GitHub privado
       run: |
-        sudo rm -rf /tmp/tv-backend
+        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S rm -rf /tmp/tv-backend
         git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/moirdaniel/tv-backend.git /tmp/tv-backend
 
     - name: Copiar archivos al directorio de despliegue
       run: |
-        sudo rm -rf /docker-apps/tv-backend/*
-        sudo cp -r /tmp/tv-backend/* /docker-apps/tv-backend/
+        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S rm -rf /docker-apps/tv-backend/*
+        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S cp -r /tmp/tv-backend/* /docker-apps/tv-backend/
 
-    - name: Desplegar con Docker Compose
+    - name: Ejecutar Docker Compose como dmoir
       run: |
         cd /docker-apps/tv-backend
-        docker-compose pull
-        docker-compose up -d --remove-orphans
-
-    - name: Verificar estado de contenedores
-      run: docker ps
+        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker-compose pull
+        echo "${{ secrets.DMOIR_SUDO_PASSWORD }}" | sudo -S docker-compose up -d --remove-orphans
